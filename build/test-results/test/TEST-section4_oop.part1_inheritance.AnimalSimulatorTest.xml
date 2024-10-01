@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="section4_oop.part1_inheritance.AnimalSimulatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-01-17T16:35:06" hostname="bin305.bin.bioinf.nl" time="0.058">
+  <properties/>
+  <testcase name="testMain_A()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.031"/>
+  <testcase name="testMain_B()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.002"/>
+  <testcase name="testMain_C()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.008"/>
+  <testcase name="testMain_D()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.003"/>
+  <testcase name="testMain_E()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.001"/>
+  <testcase name="testMain_F()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.002"/>
+  <testcase name="testMain_G()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.002"/>
+  <testcase name="testGetSupportedAnimals()" classname="section4_oop.part1_inheritance.AnimalSimulatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
